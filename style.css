@@ -121,10 +121,13 @@ h3 {
   text-align: center;
 }
 
-.about-me button a{
-  text-decoration: none;
-  color: #5E3B2F;
+.about-me button {
   background-color: #f4f2e7;
+}
+
+.about-me button a{
+  color: #5E3B2F;
+  text-decoration: none;
 }
 
 .education {
